@@ -13,6 +13,7 @@ f(x) = sin(x)
 A ≅ ∫ f(x)dx  (limits not shown)
 
 A is the Integral approximation.
+     
 
 Move around the plot with w, a, s and d keys. a and d change limits     
 Horizontal zoom with q and e keys. This change limits    
