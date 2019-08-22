@@ -8,11 +8,10 @@ I'm not going to explain what is a Integral
 
 Example of what my program does:
 
-f(x) = sin(x)     
-     b     
-A ≅ ∫ f(x)dx     
-     a     
- 
+f(x) = sin(x)
+
+A ≅ ∫ f(x)dx  (limits not shown)
+
 A is the Integral approximation.
 
 Move around the plot with w, a, s and d keys. a and d change limits
