@@ -9,7 +9,7 @@ I'm not going to explain what is a Integral
 Example of what my program does:
 
 f(x) = sin(x)     
-          b     
+     b     
 A ≅ ∫ f(x)dx     
      a     
  
