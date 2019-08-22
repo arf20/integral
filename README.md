@@ -24,4 +24,3 @@ Change resolution with x and v keys. Note: this may cause error in integral apro
 With n = 10000, f(x) = sin(x) and limits 0-π this program aproximates its ∫f(x)dx with an error of 9.5*10⁻⁵
 
 Hope this is useful to anyone
-
